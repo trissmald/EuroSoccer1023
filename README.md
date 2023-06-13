@@ -4,6 +4,8 @@ Hi, I've created my first data analysis project (actually it was my third or so 
 
 I have left the files in the project so you can review them, leave me comments and take them as a reference in case you are also learning about data analysis like me. I have also left two csv files, so I will explain why.
 
+The different 13-year soccer leagues from 2010 to 2023 from 11 European countries were analyzed. You can review the txt to analyze the different approaches.
+
 The cleaned version is the generation of the file after eliminating more than 30,000 rows of information that were incomplete (this is explained inside the python notebook) so I proceeded to make the corresponding cleaning, the version without cleaning is this same with the totality of data (+90,000) in case you want to clean it in a different way.
 
 Anyway, in the code itself you can extract this information.
@@ -41,3 +43,7 @@ Many thanks to Youtube, Python, Pandas and PowerBI.
 ## Licencia
 
 License? I believe it but it's not that impressive either, please use it.
+
+---------------------------------------------
+
+Over time I will improve this readme.md
